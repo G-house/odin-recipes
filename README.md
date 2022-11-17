@@ -1,2 +1,2 @@
 # odin-recipes
-My first website! 
+My first website! The project will be a website containing a few different recipes.
